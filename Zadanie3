@@ -1,4 +1,4 @@
-package zadanie.pkg3;
+package com.company;
 import java.util.Scanner;
 import java.util.Arrays;
 public class Main
@@ -27,4 +27,5 @@ public class Main
     }
     public static void main(String[] args) {
         System.out.println("Rezultat:" + Arrays.toString(Zadanie3()));
-    }}
+    }
+    }
