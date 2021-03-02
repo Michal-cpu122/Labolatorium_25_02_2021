@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 public class Main
 {
-    public static int[] Zadanie3() {
+    public static int[] Labolatorium() {
         Scanner scannner = new Scanner(System.in);
         System.out.println("Wielkość tablicy:");
         int Rozmiar;
@@ -26,6 +26,6 @@ public class Main
         return tab3;
     }
     public static void main(String[] args) {
-        System.out.println("Rezultat:" + Arrays.toString(Zadanie3()));
+        System.out.println("Rezultat:" + Arrays.toString(Labolatorium()));
     }
     }
