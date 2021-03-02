@@ -1,4 +1,4 @@
-package zadanie.pkg4;
+package com.company;
 public class Main {
     public static int[][] TAB(){
         int U = 9;
